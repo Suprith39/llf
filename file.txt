@@ -1,2 +1,6 @@
+<<<< HEAD
 Hello GitHub
-branch confl
+branch conflict
+=======
+This is feature branch
+>>>> feature1
